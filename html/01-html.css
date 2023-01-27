@@ -1,0 +1,13 @@
+.title{
+    color: red;
+}
+
+.title#headline{
+    color:blue;
+}
+.contents{
+    font-size:28px;
+    font-style: italic;
+    text-decoration: underline;
+
+}
